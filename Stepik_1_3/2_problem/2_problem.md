@@ -3,6 +3,6 @@ Sample Input:
 
 Sample Output:
 
-I like Go!
-I like Go!
+I like Go!\
+I like Go!\
 I like Go!

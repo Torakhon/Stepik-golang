@@ -2,8 +2,8 @@
 
 Sample Input:
 
-2
-2
+2\
+2\
 Sample Output:
 
 8

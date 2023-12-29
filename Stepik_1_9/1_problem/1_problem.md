@@ -2,7 +2,7 @@
 
 Sample Input:
 
-5
+5\
 Sample Output:
 
 Число положительное

@@ -14,7 +14,7 @@ It is ... hours ... minutes.
 
 Sample Input:
 
-90
+90\
 Sample Output:
 
 It is 3 hours 0 minutes.
